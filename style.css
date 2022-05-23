@@ -1,15 +1,23 @@
 html,
 body {
   background-color: #4e4e8b;
+  background-image:url('people-working.jpeg');
   font-family: "Raleway", Helvetica, sans-serif;
   padding: 20px;
+  color: #f3f3f3;
 }
-h1,
+}
+h1{
+  text-align: center;
+  font-size: 64px;
+  color: #1b1b32;
+}
 p {
   text-align: center;
 }
 #container {
-  background: rgb(245, 246, 252);
+  background: #1b1b32;
+  opacity: 80%;
   width: 800px;
   border-radius: 25px;
   margin: 0 auto;
