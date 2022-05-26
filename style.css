@@ -65,6 +65,6 @@ p {
   box-shadow: 0 4px 8px;
 }
 .button:hover {
-  background-color: blue;
+  background-color: #0d0df0;
   opacity: 0.5;
 }
